@@ -1,0 +1,589 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.16.3.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-405f1a50d0cd29fe2260e00bf5c23752"
+  },
+  "datasets": {
+    "data-405f1a50d0cd29fe2260e00bf5c23752": [
+      {
+        "Count": 5,
+        "License Status": "EXPIRED",
+        "License Type": "APPRAISAL"
+      },
+      {
+        "Count": 8,
+        "License Status": "ACTIVE",
+        "License Type": "ARCHITECT"
+      },
+      {
+        "Count": 1,
+        "License Status": "DECEASED",
+        "License Type": "ARCHITECT"
+      },
+      {
+        "Count": 5,
+        "License Status": "INACTIVE",
+        "License Type": "ARCHITECT"
+      },
+      {
+        "Count": 6,
+        "License Status": "NOT RENEWED",
+        "License Type": "ARCHITECT"
+      },
+      {
+        "Count": 6,
+        "License Status": "ACTIVE",
+        "License Type": "ATHLETIC TRAINER"
+      },
+      {
+        "Count": 8,
+        "License Status": "NOT RENEWED",
+        "License Type": "ATHLETIC TRAINER"
+      },
+      {
+        "Count": 15,
+        "License Status": "NOT RENEWED",
+        "License Type": "ATHLETICS"
+      },
+      {
+        "Count": 1,
+        "License Status": "ACTIVE",
+        "License Type": "AUCTIONEER"
+      },
+      {
+        "Count": 1,
+        "License Status": "NOT RENEWED",
+        "License Type": "AUCTIONEER"
+      },
+      {
+        "Count": 1,
+        "License Status": "NOT RENEWED",
+        "License Type": "CEMETERY OVERSIGHT"
+      },
+      {
+        "Count": 9,
+        "License Status": "ACTIVE",
+        "License Type": "CLIN PSYCHOLOGIST"
+      },
+      {
+        "Count": 5,
+        "License Status": "CANCELLED",
+        "License Type": "CLIN PSYCHOLOGIST"
+      },
+      {
+        "Count": 3,
+        "License Status": "INACTIVE",
+        "License Type": "CLIN PSYCHOLOGIST"
+      },
+      {
+        "Count": 7,
+        "License Status": "NOT RENEWED",
+        "License Type": "CLIN PSYCHOLOGIST"
+      },
+      {
+        "Count": 7,
+        "License Status": "ACTIVE",
+        "License Type": "COLLECTION AGENCY"
+      },
+      {
+        "Count": 2,
+        "License Status": "CANCELLED",
+        "License Type": "COLLECTION AGENCY"
+      },
+      {
+        "Count": 1,
+        "License Status": "CHANGE OF OWNERSHIP",
+        "License Type": "COLLECTION AGENCY"
+      },
+      {
+        "Count": 2,
+        "License Status": "CLOSED",
+        "License Type": "COLLECTION AGENCY"
+      },
+      {
+        "Count": 1,
+        "License Status": "INOPERATIVE",
+        "License Type": "COLLECTION AGENCY"
+      },
+      {
+        "Count": 8,
+        "License Status": "NOT RENEWED",
+        "License Type": "COLLECTION AGENCY"
+      },
+      {
+        "Count": 19,
+        "License Status": "ACTIVE",
+        "License Type": "COMM ASSOC MGR"
+      },
+      {
+        "Count": 2,
+        "License Status": "INACTIVE",
+        "License Type": "COMM ASSOC MGR"
+      },
+      {
+        "Count": 16,
+        "License Status": "NOT RENEWED",
+        "License Type": "COMM ASSOC MGR"
+      },
+      {
+        "Count": 940,
+        "License Status": "ACTIVE",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 12,
+        "License Status": "CANCELLED",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 15,
+        "License Status": "CHANGE OF OWNERSHIP",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 12,
+        "License Status": "CLOSED",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 23,
+        "License Status": "DECEASED",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 412,
+        "License Status": "INACTIVE",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 3,
+        "License Status": "INOPERATIVE",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 2363,
+        "License Status": "NOT RENEWED",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 1,
+        "License Status": "Non Sufficient Fund Check Terminated",
+        "License Type": "COSMO"
+      },
+      {
+        "Count": 316,
+        "License Status": "ACTIVE",
+        "License Type": "DENTAL"
+      },
+      {
+        "Count": 7,
+        "License Status": "CANCELLED",
+        "License Type": "DENTAL"
+      },
+      {
+        "Count": 31,
+        "License Status": "DECEASED",
+        "License Type": "DENTAL"
+      },
+      {
+        "Count": 4,
+        "License Status": "EXPIRED",
+        "License Type": "DENTAL"
+      },
+      {
+        "Count": 58,
+        "License Status": "INACTIVE",
+        "License Type": "DENTAL"
+      },
+      {
+        "Count": 1,
+        "License Status": "INOPERATIVE",
+        "License Type": "DENTAL"
+      },
+      {
+        "Count": 322,
+        "License Status": "NOT RENEWED",
+        "License Type": "DENTAL"
+      },
+      {
+        "Count": 23,
+        "License Status": "ACTIVE",
+        "License Type": "DESIGN FIRM"
+      },
+      {
+        "Count": 2,
+        "License Status": "CANCELLED",
+        "License Type": "DESIGN FIRM"
+      },
+      {
+        "Count": 2,
+        "License Status": "CLOSED",
+        "License Type": "DESIGN FIRM"
+      },
+      {
+        "Count": 44,
+        "License Status": "NOT RENEWED",
+        "License Type": "DESIGN FIRM"
+      },
+      {
+        "Count": 2,
+        "License Status": "NOT RENEWED",
+        "License Type": "DETECT. DECEPTION"
+      },
+      {
+        "Count": 971,
+        "License Status": "ACTIVE",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 2,
+        "License Status": "CANCELLED",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 3,
+        "License Status": "CLOSED",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 1,
+        "License Status": "DECEASED",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 1,
+        "License Status": "INACTIVE",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 11,
+        "License Status": "INOPERATIVE",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 3395,
+        "License Status": "NOT RENEWED",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 1,
+        "License Status": "Non Sufficient Fund Check Terminated",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 431,
+        "License Status": "TERMINATED CARD RETURNED",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 19,
+        "License Status": "TERMINATED VALID REASON",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 32,
+        "License Status": "TERMINATED WITHOUT CARD",
+        "License Type": "DETECTIVE BOARD"
+      },
+      {
+        "Count": 37,
+        "License Status": "ACTIVE",
+        "License Type": "DIETETIC AND NUTRITION"
+      },
+      {
+        "Count": 1,
+        "License Status": "CANCELLED",
+        "License Type": "DIETETIC AND NUTRITION"
+      },
+      {
+        "Count": 7,
+        "License Status": "INACTIVE",
+        "License Type": "DIETETIC AND NUTRITION"
+      },
+      {
+        "Count": 28,
+        "License Status": "NOT RENEWED",
+        "License Type": "DIETETIC AND NUTRITION"
+      },
+      {
+        "Count": 3,
+        "License Status": "ACTIVE",
+        "License Type": "ENVIRON. HLTH PRACT"
+      },
+      {
+        "Count": 1,
+        "License Status": "EXPIRED",
+        "License Type": "ENVIRON. HLTH PRACT"
+      },
+      {
+        "Count": 4,
+        "License Status": "INACTIVE",
+        "License Type": "ENVIRON. HLTH PRACT"
+      },
+      {
+        "Count": 5,
+        "License Status": "NOT RENEWED",
+        "License Type": "ENVIRON. HLTH PRACT"
+      },
+      {
+        "Count": 14,
+        "License Status": "ACTIVE",
+        "License Type": "FUNERAL AND EMBALMER"
+      },
+      {
+        "Count": 44,
+        "License Status": "CANCELLED",
+        "License Type": "FUNERAL AND EMBALMER"
+      },
+      {
+        "Count": 4,
+        "License Status": "DECEASED",
+        "License Type": "FUNERAL AND EMBALMER"
+      },
+      {
+        "Count": 13,
+        "License Status": "INACTIVE",
+        "License Type": "FUNERAL AND EMBALMER"
+      },
+      {
+        "Count": 23,
+        "License Status": "NOT RENEWED",
+        "License Type": "FUNERAL AND EMBALMER"
+      },
+      {
+        "Count": 5,
+        "License Status": "ACTIVE",
+        "License Type": "GEOLOGY"
+      },
+      {
+        "Count": 1,
+        "License Status": "INACTIVE",
+        "License Type": "GEOLOGY"
+      },
+      {
+        "Count": 1,
+        "License Status": "NOT RENEWED",
+        "License Type": "GEOLOGY"
+      },
+      {
+        "Count": 5,
+        "License Status": "ACTIVE",
+        "License Type": "HME AND SERVICES PROV"
+      },
+      {
+        "Count": 1,
+        "License Status": "CHANGE OF OWNERSHIP",
+        "License Type": "HME AND SERVICES PROV"
+      },
+      {
+        "Count": 2,
+        "License Status": "CLOSED",
+        "License Type": "HME AND SERVICES PROV"
+      },
+      {
+        "Count": 8,
+        "License Status": "NOT RENEWED",
+        "License Type": "HME AND SERVICES PROV"
+      },
+      {
+        "Count": 14,
+        "License Status": "ACTIVE",
+        "License Type": "HOME INSPECTOR"
+      },
+      {
+        "Count": 8,
+        "License Status": "EXPIRED",
+        "License Type": "HOME INSPECTOR"
+      },
+      {
+        "Count": 24,
+        "License Status": "NOT RENEWED",
+        "License Type": "HOME INSPECTOR"
+      },
+      {
+        "Count": 6,
+        "License Status": "ACTIVE",
+        "License Type": "IDPR"
+      },
+      {
+        "Count": 1,
+        "License Status": "CANCELLED",
+        "License Type": "IDPR"
+      },
+      {
+        "Count": 2,
+        "License Status": "NOT RENEWED",
+        "License Type": "IDPR"
+      },
+      {
+        "Count": 2,
+        "License Status": "ACTIVE",
+        "License Type": "INTERIOR DESIGN"
+      },
+      {
+        "Count": 1,
+        "License Status": "CANCELLED",
+        "License Type": "INTERIOR DESIGN"
+      },
+      {
+        "Count": 5,
+        "License Status": "INACTIVE",
+        "License Type": "INTERIOR DESIGN"
+      },
+      {
+        "Count": 14,
+        "License Status": "NOT RENEWED",
+        "License Type": "INTERIOR DESIGN"
+      },
+      {
+        "Count": 5,
+        "License Status": "ACTIVE",
+        "License Type": "LAND SURVEYOR BOARD"
+      },
+      {
+        "Count": 1,
+        "License Status": "CANCELLED",
+        "License Type": "LAND SURVEYOR BOARD"
+      },
+      {
+        "Count": 3,
+        "License Status": "EXPIRED",
+        "License Type": "LAND SURVEYOR BOARD"
+      },
+      {
+        "Count": 4,
+        "License Status": "INACTIVE",
+        "License Type": "LAND SURVEYOR BOARD"
+      },
+      {
+        "Count": 4,
+        "License Status": "NOT RENEWED",
+        "License Type": "LAND SURVEYOR BOARD"
+      },
+      {
+        "Count": 3,
+        "License Status": "ACTIVE",
+        "License Type": "LANDSCAPE ARCHITECT"
+      },
+      {
+        "Count": 2,
+        "License Status": "INACTIVE",
+        "License Type": "LANDSCAPE ARCHITECT"
+      },
+      {
+        "Count": 2,
+        "License Status": "NOT RENEWED",
+        "License Type": "LANDSCAPE ARCHITECT"
+      },
+      {
+        "Count": 15,
+        "License Status": "ACTIVE",
+        "License Type": "LIMITED LIABILITY CO"
+      },
+      {
+        "Count": 6,
+        "License Status": "NOT RENEWED",
+        "License Type": "LIMITED LIABILITY CO"
+      },
+      {
+        "Count": 7,
+        "License Status": "ACTIVE",
+        "License Type": "MAR AND FAM THERAPIST"
+      },
+      {
+        "Count": 1,
+        "License Status": "INACTIVE",
+        "License Type": "MAR AND FAM THERAPIST"
+      },
+      {
+        "Count": 6,
+        "License Status": "NOT RENEWED",
+        "License Type": "MAR AND FAM THERAPIST"
+      },
+      {
+        "Count": 23,
+        "License Status": "ACTIVE",
+        "License Type": "MASSAGE LICENSING BD"
+      },
+      {
+        "Count": 12,
+        "License Status": "INACTIVE",
+        "License Type": "MASSAGE LICENSING BD"
+      },
+      {
+        "Count": 17,
+        "License Status": "NOT RENEWED",
+        "License Type": "MASSAGE LICENSING BD"
+      },
+      {
+        "Count": 1,
+        "License Status": "ACTIVE",
+        "License Type": "MEDICAL BOARD"
+      },
+      {
+        "Count": 2,
+        "License Status": "INACTIVE",
+        "License Type": "MEDICAL BOARD"
+      },
+      {
+        "Count": 3,
+        "License Status": "NOT RENEWED",
+        "License Type": "MEDICAL BOARD"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "License Status",
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "License Type",
+        "type": "nominal"
+      },
+      {
+        "field": "License Status",
+        "type": "nominal"
+      },
+      {
+        "field": "Count",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "License Type",
+      "type": "nominal"
+    },
+    "y": {
+      "field": "Count",
+      "stack": "normalize",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "mark": {
+    "type": "bar"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_8",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": "Breakdown of License Types by Status",
+  "width": 600
+}
